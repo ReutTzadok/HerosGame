@@ -17,3 +17,4 @@ public class GameManager {
         System.out.println(dead.getClass().getSimpleName() + " is dead, fight is over");
     }
 }
+
